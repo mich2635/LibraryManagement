@@ -23,5 +23,5 @@
                                    -rectified my mistake with the help of naresh sir
         4,Learnt accurate defination of package 
                                    -with the help of selvi mam
-         5,default case in switch class  can be written any where inside the class
+        5,default case in switch class  can be written any where inside the class
                                    -learnt from selvi mam
