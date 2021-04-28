@@ -2,26 +2,25 @@ package com.librarymanagement;
 
 import org.junit.Test;
 
-
 public class ViewBookByName {
-	
+
 	/**
 	 * ENTERING CORRECT VALUE
 	 */
 	@Test
 	public void correctDetails() {
-		int count=CoreOperation.byName("JAVA");
-		System.out.println("ASKED BOOK COUNT IS:"+count);
-		
+		int count = CoreOperation.displayByName("JAVA");
+		System.out.println("ASKED BOOK COUNT IS:" + count);
+
 	}
-	
+
 	/**
 	 * ENTERING WRONG BOOKS
 	 */
 	@Test
-	public void incorrectDetails(){
-		int count=CoreOperation.byName("WRONG BOOK");
-		System.out.println("ASKED BOOK COUNT IS:"+count);
+	public void incorrectDetails() {
+		int count = CoreOperation.displayByName("WRONG BOOK");
+		System.out.println("ASKED BOOK COUNT IS:" + count);
 	}
 
 }
