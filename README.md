@@ -32,3 +32,4 @@
         8.if user chosen book quantity is more than the stock it displayed taken time ,
           taken date,taken book it is rectified by only showing "INSUFFICIENT STOCKS"
                                     -rectified my mistake
+        9.Codes in all class rearranged in perfect format
