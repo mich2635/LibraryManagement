@@ -11,7 +11,7 @@
     Test case included;
 ##### Feature 6:Search books by department
     Test casse included;
-##### Feature 6:Display Books by Book name
+##### Feature 7:Display Books by Book name
     Test case included;
-##### Feature 7:Search by book name and return stocks
+##### Feature 8:Search by book name and return stocks
     Test case included;
